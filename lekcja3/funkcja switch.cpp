@@ -5,7 +5,7 @@ int pierwsza_liczba;
 cout <<"podaj pierwszą liczbe:";
 cin >> pierwsza_liczba;
 
-clear druga_liczba;
+
 cout << "podaj drugą liczbe:";
 cin >> druga_liczba;
 
